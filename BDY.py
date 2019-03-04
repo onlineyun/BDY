@@ -54,7 +54,7 @@ def matchall(text, patterns):
 
     return None
 if __name__ == '__main__':
-    '''链接必须包含
+    '''
     pan.baidu.com/s/1    
     '''
     url = 'pan.baidu.com/s/191xssKElUKt0d6zz0TgqpA'
